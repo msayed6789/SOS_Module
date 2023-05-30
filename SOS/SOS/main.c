@@ -26,6 +26,9 @@
 
 int main(void)
 {
+	
+	/*this is fork one from m_sayed*/
+	
 	APP_init();
 	APP_start();
 
