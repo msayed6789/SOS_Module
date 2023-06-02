@@ -1,58 +1,58 @@
 main.d main.o: .././main.c .././APP/app.h .././APP/../SERVICE/sos/sos.h \
- .././APP/../SERVICE/sos/../../STD_LIBRARIES/std_types.h \
- .././APP/../SERVICE/sos/../../STD_LIBRARIES/bit_math.h \
- .././APP/../SERVICE/sos/../../STD_LIBRARIES/std_types.h \
- .././APP/../SERVICE/sos/../../STD_LIBRARIES/timer_manager/timer_manager.h \
- .././APP/../SERVICE/sos/../../STD_LIBRARIES/timer_manager/../../MCAL/timer/timer_types.h \
- .././APP/../SERVICE/sos/../../STD_LIBRARIES/timer_manager/../../MCAL/timer/../../STD_LIBRARIES/std_types.h \
- .././APP/../SERVICE/sos/../../STD_LIBRARIES/timer_manager/../../MCAL/timer/../../STD_LIBRARIES/bit_math.h \
- .././APP/../HAL/led/led.h .././APP/../HAL/led/../../MCAL/dio/dio.h \
- .././APP/../HAL/led/../../MCAL/dio/../../STD_LIBRARIES/STD_TYPES.h \
- .././APP/../HAL/led/../../MCAL/dio/../../STD_LIBRARIES/bit_math.h \
- .././APP/../HAL/led/../../MCAL/dio/private_regs.h \
+ d:\sos_module\sos\sos\std_libraries\std_types.h \
+ d:\sos_module\sos\sos\std_libraries\bit_math.h \
+ d:\sos_module\sos\sos\std_libraries\std_types.h \
+ d:\sos_module\sos\sos\std_libraries\timer_manager\timer_manager.h \
+ d:\sos_module\sos\sos\mcal\timer\timer_types.h \
+ d:\sos_module\sos\sos\std_libraries\std_types.h \
+ d:\sos_module\sos\sos\std_libraries\bit_math.h .././APP/../HAL/led/led.h \
+ d:\sos_module\sos\sos\mcal\dio\dio.h \
+ d:\sos_module\sos\sos\std_libraries\std_types.h \
+ d:\sos_module\sos\sos\std_libraries\bit_math.h \
+ d:\sos_module\sos\sos\mcal\dio\private_regs.h \
  .././APP/../STD_LIBRARIES/ex_int_manger/ex_int_manger.h \
- .././APP/../STD_LIBRARIES/ex_int_manger/../../MCAL/exti/external_interrupt.h \
- .././APP/../STD_LIBRARIES/ex_int_manger/../../MCAL/exti/../../STD_LIBRARIES/STD_TYPES.h \
- .././APP/../STD_LIBRARIES/ex_int_manger/../../MCAL/exti/../../STD_LIBRARIES/bit_math.h \
- .././APP/../STD_LIBRARIES/ex_int_manger/../../MCAL/exti/../dio/dio.h \
- .././APP/../STD_LIBRARIES/ex_int_manger/../../MCAL/exti/ext_int_private_reg.h
+ d:\sos_module\sos\sos\mcal\exti\external_interrupt.h \
+ d:\sos_module\sos\sos\std_libraries\std_types.h \
+ d:\sos_module\sos\sos\std_libraries\bit_math.h \
+ d:\sos_module\sos\sos\mcal\dio\dio.h \
+ d:\sos_module\sos\sos\mcal\exti\ext_int_private_reg.h
 
 .././APP/app.h:
 
 .././APP/../SERVICE/sos/sos.h:
 
-.././APP/../SERVICE/sos/../../STD_LIBRARIES/std_types.h:
+d:\sos_module\sos\sos\std_libraries\std_types.h:
 
-.././APP/../SERVICE/sos/../../STD_LIBRARIES/bit_math.h:
+d:\sos_module\sos\sos\std_libraries\bit_math.h:
 
-.././APP/../SERVICE/sos/../../STD_LIBRARIES/std_types.h:
+d:\sos_module\sos\sos\std_libraries\std_types.h:
 
-.././APP/../SERVICE/sos/../../STD_LIBRARIES/timer_manager/timer_manager.h:
+d:\sos_module\sos\sos\std_libraries\timer_manager\timer_manager.h:
 
-.././APP/../SERVICE/sos/../../STD_LIBRARIES/timer_manager/../../MCAL/timer/timer_types.h:
+d:\sos_module\sos\sos\mcal\timer\timer_types.h:
 
-.././APP/../SERVICE/sos/../../STD_LIBRARIES/timer_manager/../../MCAL/timer/../../STD_LIBRARIES/std_types.h:
+d:\sos_module\sos\sos\std_libraries\std_types.h:
 
-.././APP/../SERVICE/sos/../../STD_LIBRARIES/timer_manager/../../MCAL/timer/../../STD_LIBRARIES/bit_math.h:
+d:\sos_module\sos\sos\std_libraries\bit_math.h:
 
 .././APP/../HAL/led/led.h:
 
-.././APP/../HAL/led/../../MCAL/dio/dio.h:
+d:\sos_module\sos\sos\mcal\dio\dio.h:
 
-.././APP/../HAL/led/../../MCAL/dio/../../STD_LIBRARIES/STD_TYPES.h:
+d:\sos_module\sos\sos\std_libraries\std_types.h:
 
-.././APP/../HAL/led/../../MCAL/dio/../../STD_LIBRARIES/bit_math.h:
+d:\sos_module\sos\sos\std_libraries\bit_math.h:
 
-.././APP/../HAL/led/../../MCAL/dio/private_regs.h:
+d:\sos_module\sos\sos\mcal\dio\private_regs.h:
 
 .././APP/../STD_LIBRARIES/ex_int_manger/ex_int_manger.h:
 
-.././APP/../STD_LIBRARIES/ex_int_manger/../../MCAL/exti/external_interrupt.h:
+d:\sos_module\sos\sos\mcal\exti\external_interrupt.h:
 
-.././APP/../STD_LIBRARIES/ex_int_manger/../../MCAL/exti/../../STD_LIBRARIES/STD_TYPES.h:
+d:\sos_module\sos\sos\std_libraries\std_types.h:
 
-.././APP/../STD_LIBRARIES/ex_int_manger/../../MCAL/exti/../../STD_LIBRARIES/bit_math.h:
+d:\sos_module\sos\sos\std_libraries\bit_math.h:
 
-.././APP/../STD_LIBRARIES/ex_int_manger/../../MCAL/exti/../dio/dio.h:
+d:\sos_module\sos\sos\mcal\dio\dio.h:
 
-.././APP/../STD_LIBRARIES/ex_int_manger/../../MCAL/exti/ext_int_private_reg.h:
+d:\sos_module\sos\sos\mcal\exti\ext_int_private_reg.h:

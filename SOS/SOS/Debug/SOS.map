@@ -777,7 +777,7 @@ END GROUP
  .debug_frame   0x00000510       0x54 STD_LIBRARIES/ex_int_manger/ex_int_manger.o
  .debug_frame   0x00000564       0x64 STD_LIBRARIES/timer_manager/timer_manager.o
 
-.debug_str      0x00000000     0x1192
+.debug_str      0x00000000     0x11ae
  *(.debug_str)
  .debug_str     0x00000000      0x196 C:/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32a/avr5/crtatmega32a.o
  .debug_str     0x00000196      0x616 APP/app.o
@@ -786,25 +786,25 @@ END GROUP
                                 0x347 (size before relaxing)
  .debug_str     0x000008d0       0x2b HAL/led/led_config.o
                                 0x2bd (size before relaxing)
- .debug_str     0x000008fb       0x6f main.o
-                                0x1b1 (size before relaxing)
- .debug_str     0x0000096a      0x105 MCAL/dio/dio.o
+ .debug_str     0x000008fb       0x2d main.o
+                                0x16f (size before relaxing)
+ .debug_str     0x00000928      0x105 MCAL/dio/dio.o
                                 0x3d8 (size before relaxing)
- .debug_str     0x00000a6f      0x121 MCAL/exti/external_interrupt.h.o
+ .debug_str     0x00000a2d      0x121 MCAL/exti/external_interrupt.h.o
                                 0x4be (size before relaxing)
- .debug_str     0x00000b90      0x1b6 MCAL/timer/timer.o
+ .debug_str     0x00000b4e      0x1b6 MCAL/timer/timer.o
                                 0x36b (size before relaxing)
- .debug_str     0x00000d46      0x310 SERVICE/sos/sos.o
+ .debug_str     0x00000d04      0x36e SERVICE/sos/sos.o
                                 0x73c (size before relaxing)
- .debug_str     0x00001056       0x2a SERVICE/sos/sos_config.o
+ .debug_str     0x00001072       0x2a SERVICE/sos/sos_config.o
                                 0x2e5 (size before relaxing)
- .debug_str     0x00001080       0x62 STD_LIBRARIES/ex_int_manger/ex_int_manger.o
+ .debug_str     0x0000109c       0x62 STD_LIBRARIES/ex_int_manger/ex_int_manger.o
                                 0x3d3 (size before relaxing)
- .debug_str     0x000010e2       0x3d STD_LIBRARIES/ex_int_manger/ex_int_manger_config.o
+ .debug_str     0x000010fe       0x3d STD_LIBRARIES/ex_int_manger/ex_int_manger_config.o
                                 0x2fb (size before relaxing)
- .debug_str     0x0000111f       0x3e STD_LIBRARIES/timer_manager/timer_manager.o
+ .debug_str     0x0000113b       0x3e STD_LIBRARIES/timer_manager/timer_manager.o
                                 0x35f (size before relaxing)
- .debug_str     0x0000115d       0x35 STD_LIBRARIES/timer_manager/timer_manger_config.o
+ .debug_str     0x00001179       0x35 STD_LIBRARIES/timer_manager/timer_manger_config.o
                                 0x2b1 (size before relaxing)
 
 .debug_loc      0x00000000     0x208e
