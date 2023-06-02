@@ -28,7 +28,7 @@ int main(void)
 {
 	
 	/*this is fork one from m_sayed*/
-	
+	/*this is fork one from KAreem*/
 	APP_init();
 	APP_start();
 
